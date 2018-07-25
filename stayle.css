@@ -298,6 +298,20 @@ body{
 	.footer{
 		height: 50px;
 	}
+	
+	/*=================CLAS BLOG=====================*/
+	.blog{
+		width: 98%; margin: 5px auto;
+	}	
+
+	/*=================CLAS vlog=====================*/
+	.vlog{
+		width: 98%; margin: 5px auto;
+	}	
+
+
+	
+	
 
 	/*-------------VIDIO-----------------*/
 	.isi-vidio{
